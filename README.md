@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can find it in production at [Antoine Labalette](www.antoine-labalette.fr)
+You can find it in production at [Antoine Labalette](http://www.antoine-labalette.fr)
 
 ## Available Scripts
 
